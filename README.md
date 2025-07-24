@@ -147,36 +147,7 @@ Requires Python 3.8 or higher.
 
 🤝 Contribution
 
-Contributions are welcome! Here’s how you can help:
-
-1. Fork the repository.
-
-
-2. Create a new feature branch (git checkout -b new-feature).
-
-
-3. Make your changes with proper comments and documentation.
-
-
-4. Commit and push (git commit -m 'Add new feature').
-
-
-5. Create a pull request.
-
-
-
-💡 You can contribute by:
-
-Adding more feature engineering ideas
-
-Improving model performance
-
-Deploying with Streamlit or Flask
-
-Adding unit tests
-
-
-Please follow PEP8 coding guidelines.
+We welcome ideas, enhancements, and contributions. Reach out via issues or submit pull requests to join us in transforming the learning experience.
 
 
 
